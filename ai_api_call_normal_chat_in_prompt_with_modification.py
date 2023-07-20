@@ -1,5 +1,5 @@
 import openai
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 prompt = input("waarover wil je een reactie van ChatGPT")

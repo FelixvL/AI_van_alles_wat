@@ -1,10 +1,10 @@
 import os
 import openai
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 response = openai.Image.create(
-  prompt="a white siamese cat",
+  prompt="some mice dancing on a table",
   n=1,
   size="1024x1024"
 )
